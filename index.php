@@ -96,7 +96,7 @@ $fitting = (22.8/100) * $total_cost;
 
         </div>
 
-        <form style="width: 60%; " method="post" action="calculator.html">
+        <form style="width: 60%; " method="post" action="calculator.php">
           <div class="row mb-3 ">
             <label for="" class="col-sm-4 col-form-label">State</label>
             <div class="col-sm-8">
