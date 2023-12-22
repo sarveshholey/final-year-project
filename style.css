@@ -1,0 +1,23 @@
+sup {
+    vertical-align: super;
+    font-size: smaller;
+  }
+body {
+  /* background: url('img/773716.webp') no-repeat center center/cover; */
+            content: "";
+            position:sticky;
+            top:0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            /* z-index: -1; */
+            /* opacity: 0.2; */
+}
+
+.banner{
+    width:100%;
+    height:100%;
+    /* object-fit: cover; */
+    /* overflow: hidden; */
+}
+
